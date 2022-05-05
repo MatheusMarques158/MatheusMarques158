@@ -1,4 +1,4 @@
 <h1 align="center">
-  Olá, Eu sou o Matheus Marques<br>Hello, I'm Matheus Marques<br>
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="100">
+ <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="20"> Olá, Eu sou o Matheus Marques<br>Hello, I'm Matheus Marques<br><br>
+  <img src="https://media.giphy.com/media/eHLnQZXitVrSzvWyLf/giphy.gif" width="100">
 </h1>
